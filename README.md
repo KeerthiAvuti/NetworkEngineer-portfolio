@@ -155,7 +155,7 @@ Custom monitoring solution using Python and open-source tools.
 - **Email:** avutikeerthi13@gmail.com
 - **Phone:** 210-816-1321
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/keerthi-avuti)
-- **Location:** St. Petersburg, Florida, USA
+- **Location:** Texas, USA
 
 ## 🌟 Professional Philosophy
 
