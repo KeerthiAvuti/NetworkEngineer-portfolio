@@ -103,7 +103,7 @@ Below are some of my key projects showcasing my expertise in network engineering
 Comprehensive SD-WAN implementation for multi-site enterprise connectivity.
 - **Technologies:** Cisco SD-WAN, MPLS, Cloud Integration
 - **Outcome:** 40% reduction in WAN costs, improved application performance
-- [View Project →](projects/sdwan-deployment/)
+- [View Project →](https://keerthiavuti.github.io/enterprise-sdwan-dashboard/)
 
 ### 2. Network Automation Framework
 Python-based automation suite for network device configuration and monitoring.
